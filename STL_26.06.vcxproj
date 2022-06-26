@@ -139,7 +139,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="osoba.cpp" />
     <ClCompile Include="STL_26.06.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="osoba.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
